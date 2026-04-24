@@ -13,4 +13,4 @@ If you would like to run this locally, please do run commands "npm install" and 
 
 
 
-NOTE: Please do hit Ctrl + F5 to hard reset the web app, therefore the current data from the api can be displayed
+NOTE: Please do hit Ctrl + F5 to hard reset the web app if current data is not displayed uon first viewing as this is still a prototype. 
