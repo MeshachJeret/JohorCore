@@ -1,0 +1,1 @@
+Please do hit Ctrl + F5 to hard reset the web app, therefore the current data from the api can be displayed
