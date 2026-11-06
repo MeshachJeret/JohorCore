@@ -110,26 +110,28 @@ The application communicates with external APIs to retrieve information and disp
 ### Simplified Architecture
 
 ```text
-             Users
-               |
-               v
-       JohorCore (JCoreIQ)
-         Web Application
-               |
-      +--------+---------+
-      |        |         |
-      v        v         v
- Google     Open-Meteo  Currency
- Routes       API        API
-  API
-      |
-      +------------------+
-                         |
-                         v
-                    Gemini API
-                    AI Assistant
+           
+                 Users
+                   |
+                   v
+          JohorCore Web App
+                   |
+       +-----------+-----------+
+       |           |           |
+       v           v           v
+   Traffic      Weather     Currency
+   Features     Features    Features
+       |           |           |
+       v           v           v
+ Google Routes  Open-Meteo  Exchange API
 
-          Firebase Deployment
+            AI Assistant
+                 |
+                 v
+             Gemini API
+
+       Hosted using Firebase
+
 ```
 
 ### How the System Works
@@ -243,8 +245,6 @@ This required additional testing and troubleshooting.
 
 Coordinating a team during a short online hackathon was challenging.
 
-Although the team consisted of four members, most of the active development work was carried out by two members.
-
 This experience taught me the importance of communication, task distribution, and managing responsibilities in a collaborative project.
 
 ### 4. Balancing Academic Responsibilities
@@ -318,8 +318,8 @@ These are proposed improvements and have not all been implemented.
 ## Project Links
 
 - **Source Code:** [JohorCore GitHub Repository](https://github.com/MeshachJeret/JohorCore)
-- **Live Application:** Link to be added after verification.
-- **Demonstration Video:** Link to be added.
+- **Live Application:** [Link to be added after verification](https://johor-core-33d8c.firebaseapp.com/).
+- **Demonstration Video:** [Link to be added](https://www.youtube.com/watch?v=fiayrnp5Iow).
 
 ---
 
