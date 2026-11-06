@@ -318,8 +318,9 @@ These are proposed improvements and have not all been implemented.
 ## Project Links
 
 - **Source Code:** [JohorCore GitHub Repository](https://github.com/MeshachJeret/JohorCore)
-- **Live Application:** [Link to be added after verification](https://johor-core-33d8c.firebaseapp.com/).
-- **Demonstration Video:** [Link to be added](https://www.youtube.com/watch?v=fiayrnp5Iow).
+- **Live Application:** [JohorCore Web App](https://johor-core-33d8c.firebaseapp.com/)
+- **Demonstration Video:** [Watch on YouTube](https://www.youtube.com/watch?v=fiayrnp5Iow)
+.
 
 ---
 
